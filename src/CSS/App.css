@@ -1,0 +1,86 @@
+.font{
+font-size: 1.3rem;
+}
+
+.horizontalsize{
+  height: 30rem;
+}
+
+hr{
+  border: 1rem solid rgb(14, 219, 185);
+  box-shadow: -1px 4px 5px black;
+
+}
+
+.card-hover{
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+  color: white;
+}
+
+.card:hover .card-hover{
+  opacity: 1;
+  transition-delay: 0.2s;
+  color: white;
+}
+
+.cardc{
+  box-shadow: -1px 4px 5px black;
+}
+
+.cardd{
+  padding-top: 50px ;
+}
+
+body {
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+@font-face {
+  font-family: 'TiltWarp';
+  src: url('C:\Users\PC\Desktop\JS react practice 3\project1\Font\TiltWarp-Regular-VariableFont_XROT,YROT.ttf') format('truetype');
+}
+
+.font1 {
+  font-family: 'TiltWarp';
+  font-weight: lighter;
+  font-style: oblique;
+}
+
+.font {
+  font-family: 'TiltWarp';
+  font-weight: lighter;
+  font-style: normal;
+  
+}
+
+.image-wrapper {
+  filter: brightness(50%);
+}
+
+.text-wrapper {
+  filter: brightness(50%);
+}
+
+.text-wrapper:hover {
+  filter: brightness(100%);
+}
+
+@media (max-width: 576px) {
+  .font5{
+    font-size: 0.8rem;
+  }
+  .font6{
+    font-size: 1rem;
+  }
+
+  .resimg{
+    height: 40vh;
+  }
+
+  .cd{
+    width: 100%;
+    font-size: 1rem;
+    }
+}

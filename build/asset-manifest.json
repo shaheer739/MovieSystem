@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c317cd6.css",
-    "main.js": "/static/js/main.3ab085fd.js",
-    "static/js/787.142da1d4.chunk.js": "/static/js/787.142da1d4.chunk.js",
-    "static/media/Screenshot_1.png": "/static/media/Screenshot_1.9b195cd23f420f32ee02.png",
-    "static/media/Screenshot_2.png": "/static/media/Screenshot_2.0b9ab94431149a60df43.png",
-    "static/media/TiltWarp-Regular-VariableFont_XROT,YROT.ttf": "/static/media/TiltWarp-Regular-VariableFont_XROT,YROT.eb0f4127f0363e1b22e4.ttf",
-    "index.html": "/index.html",
-    "main.7c317cd6.css.map": "/static/css/main.7c317cd6.css.map",
-    "main.3ab085fd.js.map": "/static/js/main.3ab085fd.js.map",
-    "787.142da1d4.chunk.js.map": "/static/js/787.142da1d4.chunk.js.map"
+    "main.css": "/MovieSystem/static/css/main.48307f21.css",
+    "main.js": "/MovieSystem/static/js/main.f071d093.js",
+    "static/js/787.142da1d4.chunk.js": "/MovieSystem/static/js/787.142da1d4.chunk.js",
+    "static/media/Screenshot_1.png": "/MovieSystem/static/media/Screenshot_1.9b195cd23f420f32ee02.png",
+    "static/media/Screenshot_2.png": "/MovieSystem/static/media/Screenshot_2.0b9ab94431149a60df43.png",
+    "static/media/TiltWarp-Regular-VariableFont_XROT,YROT.ttf": "/MovieSystem/static/media/TiltWarp-Regular-VariableFont_XROT,YROT.eb0f4127f0363e1b22e4.ttf",
+    "index.html": "/MovieSystem/index.html",
+    "main.48307f21.css.map": "/MovieSystem/static/css/main.48307f21.css.map",
+    "main.f071d093.js.map": "/MovieSystem/static/js/main.f071d093.js.map",
+    "787.142da1d4.chunk.js.map": "/MovieSystem/static/js/787.142da1d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c317cd6.css",
-    "static/js/main.3ab085fd.js"
+    "static/css/main.48307f21.css",
+    "static/js/main.f071d093.js"
   ]
 }
